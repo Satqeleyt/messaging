@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "905075576108",
+    "project_id": "elazig-firebase",
+    "storage_bucket": "elazig-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905075576108:android:28eec4b5cdca49a26a3089",
+        "android_client_info": {
+          "package_name": "elazig.firebase.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905075576108-if8vj8bvn3ql0pt980dksj9rbp4g85f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQunhilCp_k4F5tvz8dLK3UO8eEWRDfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905075576108-if8vj8bvn3ql0pt980dksj9rbp4g85f5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905075576108-andos8tfl9q48rbfgvomdciv4a4rpgu5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "elazig.firebase.messaging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

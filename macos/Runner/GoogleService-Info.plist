@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>905075576108-andos8tfl9q48rbfgvomdciv4a4rpgu5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.905075576108-andos8tfl9q48rbfgvomdciv4a4rpgu5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPzR_DUM6mtt4g6k-2rM45T5TzYACmF7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>905075576108</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>elazig.firebase.messaging</string>
+	<key>PROJECT_ID</key>
+	<string>elazig-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elazig-firebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:905075576108:ios:50b87597a6b384386a3089</string>
+</dict>
+</plist>
